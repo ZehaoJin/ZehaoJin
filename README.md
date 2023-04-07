@@ -9,8 +9,10 @@
   - [Quantitatively rate galaxy simulations against real observations with anomaly detection](https://github.com/ZehaoJin/Rate-galaxy-simulation-with-Anomaly-Detection)
   - [ZTF IC 10 variable catalog](https://github.com/ZehaoJin/Transients-in-IC-10)
 
+<!--
 - 🎮 Dota2 Player
 - 🎸 Accoustic/electric guitar player
+-->
 <!--
 **ZehaoJin/ZehaoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
