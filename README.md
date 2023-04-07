@@ -4,7 +4,8 @@
 - 🌱 PhD student at New York Univeristy Abu Dhabi
 - 🔭 Undergraduate alma mater University of Illinois Urbana-Champaign
 - 📫 zj448@nyu.edu
-- ⚡ Dota2 Player
+- ⚡ Dota2 Player, mid
+- 🎸 Accoustic/electric guitar player
 <!--
 **ZehaoJin/ZehaoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
