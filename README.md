@@ -1,5 +1,10 @@
 ### 👋 Hi there, I'm Zehao Jin 金泽灏
-
+- 👀 Astrophysics & Machine Learning
+- ✨ Deep Learning, Symbolic Regression, Cosmological galaxy simulations, transients
+- 🌱 PhD student at New York Univeristy Abu Dhabi
+- 🔭 Undergraduate alma mater University of Illinois Urbana-Champaign
+- 📫 zj448@nyu.edu
+- ⚡ Dota2 Player
 <!--
 **ZehaoJin/ZehaoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
