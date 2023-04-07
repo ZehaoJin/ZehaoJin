@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, I'm Zehao Jin 金泽灏
 
 <!--
 **ZehaoJin/ZehaoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
