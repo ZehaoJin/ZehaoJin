@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Zehao Jin 金泽灏
 - 👀 Astrophysics & Machine Learning
-- ✨ Deep Learning, Symbolic Regression, Cosmological galaxy simulations, transients
+- ✨ Deep Learning, Symbolic Regression, Cosmological galaxy simulations, Transients
 - ⚡ PhD student at New York Univeristy Abu Dhabi
 - 🌱 Undergraduate alma mater University of Illinois Urbana-Champaign
 - 📫 zj448@nyu.edu
